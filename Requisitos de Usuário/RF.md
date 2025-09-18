@@ -21,17 +21,12 @@
 | RF15 | O usuário deve poder visualizar suas tarefas em uma visualização de calendário (mês/semana/dia). |    Alta    | RF03, RF13              |
 | RF16 | O usuário deve receber lembretes/alertas por push/notification (ou e-mail) antes do vencimento da tarefa. |    Alta    | RF03, RF07              |
 | RF17 | O usuário deve poder adiar/snooze um lembrete ou reagendar uma tarefa rapidamente.  |    Média   | RF16, RF04              |
-| RF18 | O aplicativo deve suportar sincronização de dados entre dispositivos (login único).  |    Alta    | RF01, RF02, RF21        |
-| RF19 | O usuário deve poder adicionar subtarefas/checklists dentro de uma tarefa.         |    Média   | RF03, RF08              |
 | RF20 | O usuário deve poder anexar arquivos/imagens a uma tarefa.                          |    Baixa   | RF03, RF09              |
-| RF21 | O aplicativo deve funcionar em modo offline com sincronização posterior quando online. |    Alta    | RF18                    |
 | RF22 | O usuário deve poder compartilhar uma tarefa ou lista com outros usuários (colaboração). |    Média   | RF01, RF02, RF18        |
 | RF23 | O sistema deve permitir configurar exceções para recorrências (p.ex.: pular data, alterar uma ocorrência específica). |    Média   | RF13, RF14              |
 | RF24 | O usuário deve poder visualizar indicadores simples (ex.: tarefas concluídas no período, próximas tarefas). |    Baixa   | RF09, RF15              |
-| RF25 | O aplicativo deve enviar notificações de sincronização/erro ao usuário quando ocorrerem conflitos de dados. |    Baixa   | RF18, RF21              |
+| RF25 | O aplicativo deve enviar notificações de sincronização/erro ao usuário quando ocorrerem conflitos de dados. |    Baixa   | RF18              |
 | RF26 | O usuário deve poder ordenar a lista de tarefas por data, prioridade, ou ordem manual arrastando e soltando. |    Média   | RF05, RF11              |
-| RF27 | O sistema deve garantir segurança dos dados do usuário (armazenamento seguro e comunicação criptografada). |    Alta    | RF01, RF02, RF18        |
-| RF28 | O usuário deve poder exportar/importar suas tarefas (ex.: JSON, CSV).               |    Baixa   | RF18, RF21              |
 
 
 
