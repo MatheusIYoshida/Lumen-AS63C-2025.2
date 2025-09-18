@@ -4,8 +4,8 @@
 
 | ID   |                                      Requisito                                      | Prioridade | Requisitos Relacionados |
 | :--: | :----------------------------------------------------------------------------------: | :--------: | :---------------------: |
-| RF01 | O usuário deve poder cadastrar-se (registro) no aplicativo.                         |    Alta    | RF02, RF18              |
-| RF02 | O usuário deve poder logar/logout com credenciais próprias.                         |    Alta    | RF01, RF18              |
+| RF01 | O usuário deve poder cadastrar-se (registro) no aplicativo.                         |    Alta    | RF02, RNF04              |
+| RF02 | O usuário deve poder logar/logout com credenciais próprias.                         |    Alta    | RF01, RNF04              |
 | RF03 | O usuário deve poder criar uma nova tarefa com título, descrição e data/hora.        |    Alta    | RF05, RF06, RF07        |
 | RF04 | O usuário deve poder editar os campos de uma tarefa existente.                      |    Média   | RF03, RF05              |
 | RF05 | O usuário deve poder atribuir prioridade à tarefa (ex: Baixa, Média, Alta).         |    Alta    | RF03, RF11              |
