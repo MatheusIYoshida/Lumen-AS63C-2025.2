@@ -7,7 +7,7 @@
 | RNF01 |  A interface deve ser intuitiva, permitindo que usuários realizem operações básicas (criar, editar, excluir tarefas) em até 3 cliques  |  Produto/Usabilidade  |  Alta  |  RFN02  |
 | RNF02 |  Sistema intuitivo com curva de aprendizado menor que 10 minutos  |  Produto/Usabilidade |  Media  |  RFN01  |
 | RNF03 |  Mensagens de erro claras e orientadas para solução de problemas  |  Produto/Usabilidade |  Media  |  -  |
-| RNF04 |  O aplicativo deve suportar sincronização de dados entre dispositivos (login único) |  Produto/Portabilidade  |  Media  |  -  |
+| RNF04 |  O aplicativo deve suportar sincronização de dados entre dispositivos (login único) |  Produto/Portabilidade  |  Media  |  RF01, RF02  |
 | RNF05 |  O sistema deve ter a possibilidade de ser acessado pelos navegadores Chrome, Firefox, Edge e Safari |  Produto/Portabilidade  |  Media  |  -  |
 | RNF06 |  Os dados devem ser persistidos exclusivamente no Banco de dados do servidor  |  Organizacionais/Implementação  |  Baixa  |  RNF09  |
 | RNF07 |  O sistema deve ser implementado utilizando HTML/CSS e JavaScript  |  Organizacionais/Implementação  |  Baixa  |  -  |
@@ -21,4 +21,5 @@
 # 2. Referências
 
 <a href="../README.md">VOLTAR INÍCIO</a>
+
 
