@@ -1,7 +1,5 @@
 # 1. Histórias de Usuário
 
-A **Tabela 3** a seguir contém as Histórias de Usuário elicitadas com base nos Requisitos Funcionais do projeto **Lumen**, incluindo as quatro novas histórias do documento anexo.
-
 <table>
   <thead>
     <tr style="background-color: purple; color: white">
