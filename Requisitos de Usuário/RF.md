@@ -8,7 +8,7 @@
 | RF02 | O usuário deve poder logar/logout com credenciais próprias.                         |    Alta    | RF01, RNF04              |
 | RF03 | O usuário deve poder criar uma nova tarefa com título, descrição e data/hora.        |    Alta    | RF05, RF06, RF07        |
 | RF04 | O usuário deve poder editar os campos de uma tarefa existente.                      |    Média   | RF03, RF05              |
-| RF05 | O usuário deve poder atribuir prioridade à tarefa (ex: Baixa, Média, Alta).         |    Alta    | RF03, RF11              |
+| RF05 | O usuário deve poder atribuir prioridade à tarefa (ex: Baixa, Média, Alta). Cada uma das prioridades terá uma cor específica para melhor visualização         |    Alta    | RF03, RF11              |
 | RF06 | O usuário deve poder classificar a tarefa por tipo/categoria (Trabalho, Casa, Estudo, Saúde, Outros). |    Média   | RF03, RF12              |
 | RF07 | O usuário deve poder definir data de vencimento e horário de conclusão esperado.    |    Alta    | RF03, RF13              |
 | RF08 | O usuário deve poder marcar uma tarefa como resolvida/concluída.                    |    Alta    | RF03, RF09              |
@@ -25,7 +25,7 @@
 | RF19 | O usuário deve poder compartilhar uma tarefa ou lista com outros usuários (colaboração). |    Média   | RF01, RF02, RF18        |
 | RF20 | O sistema deve permitir configurar exceções para recorrências (p.ex.: pular data, alterar uma ocorrência específica). |    Média   | RF13, RF14              |
 | RF21 | O usuário deve poder visualizar indicadores simples (ex.: tarefas concluídas no período, próximas tarefas). |    Baixa   | RF09, RF15              |
-| RF22 | O aplicativo deve enviar notificações de sincronização/erro ao usuário quando ocorrerem conflitos de dados. |    Baixa   | RF18              |
+| RF22 | O aplicativo deve enviar notificações (alerts) de sincronização/erro ao usuário quando ocorrerem conflitos de dados, como por exemplo caso ocorra algum conflito quando uma mesma tarefa é editada simultaneamente. |    Baixa   | RF18              |
 | RF23 | O usuário deve poder ordenar a lista de tarefas por data, prioridade, ou ordem manual arrastando e soltando. |    Média   | RF05, RF11              |
 
 
