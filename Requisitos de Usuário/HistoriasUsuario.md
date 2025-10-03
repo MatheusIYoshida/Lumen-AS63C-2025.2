@@ -114,7 +114,7 @@ A Tabela a seguir contém as Histórias de Usuário elicitadas.
             <td style="border-style:solid;border-width:1px;vertical-align:top">
                 <ol>
                     <li>Permitir convite por e-mail ou link.</li>
-                    <li>Definir permissões de edição ou visualização.</li>
+                    <li>Definir permissões de edição ou visualização antes da geração do e-mail ou link.</li>
                 </ol>
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
