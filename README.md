@@ -49,9 +49,9 @@ Usuários comuns que desejam otimizar sua rotina, gerenciar suas tarefas e acomp
 
 ## 🧩 Documentos do Repositório
 
-- 💬 [**Histórias de Usuários**] (https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/HistoriasUsuario.md)
-- ✅ [**Requisitos Funcionais**] (https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)
-- ⚙️ [**Requisitos Não Funcionais**] (https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/RNF.md)
+- 💬 [**Histórias de Usuários**](https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/HistoriasUsuario.md)
+- ✅ [**Requisitos Funcionais**](https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)
+- ⚙️ [**Requisitos Não Funcionais**](https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/RNF.md)
 - 📈 
 - 🧾 
 - 💬 
