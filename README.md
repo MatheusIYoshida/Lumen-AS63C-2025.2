@@ -6,7 +6,7 @@
 
 ## 🏢 Grupo
 **Nome do Grupo:** *Lumen*  
-**Logo:** *(adicione aqui o logo da equipe ou da aplicação, se houver)*
+<!--**Logo:** *(adicione aqui o logo da equipe ou da aplicação, se houver)*-->
 
 ---
 
@@ -20,11 +20,11 @@
 | Nome | GitHub |
 |------|--------|
 | **Leonardo Henrique Feitosa Ribeiro** | [@Leo-Feitosa](https://github.com/Leo-Feitosa) |
-| **Matheus Yoshida** | [@MatheusIYoshida](https://github.com/MatheusIYoshida) |
 | **Marcos Amado** | [@MarcosAmado12](https://github.com/MarcosAmado12) |
+| **Matheus Yoshida** | [@MatheusIYoshida](https://github.com/MatheusIYoshida) |
 | **Victor Neves** | [@victorCNeves](https://github.com/victorCNeves) |
 
-*(As fotos dos integrantes podem ser adicionadas futuramente usando imagens hospedadas no GitHub ou em outro repositório.)*
+<!--*(As fotos dos integrantes podem ser adicionadas futuramente usando imagens hospedadas no GitHub ou em outro repositório.)*-->
 
 ---
 
@@ -49,14 +49,14 @@ Usuários comuns que desejam otimizar sua rotina, gerenciar suas tarefas e acomp
 
 ## 🧩 Documentos do Repositório
 
-- 📄 
-- 📋  
-- 🧠   
+- 📄 **Histórias de Usuários** (https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/HistoriasUsuario.md)
+- 📋 **Requisitos Funcionais** (https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)
+- 🧠 **Requisitos Não Funcionais** (https://github.com/MatheusIYoshida/Lumen-AS63C-2025.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/RNF.md)
 - 📈 
 - 🧾 
 - 💬 
 
-*(Os links podem ser atualizados conforme os arquivos forem adicionados ao repositório.)*
+<!--*(Os links podem ser atualizados conforme os arquivos forem adicionados ao repositório.)*-->
 
 ---
 
