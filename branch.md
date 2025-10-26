@@ -1,3 +1,7 @@
-é uma prática de desenvolvimento onde os programadores integram seu código ao repositório principal frequentemente, várias vezes ao dia. Cada integração é verificada automaticamente por builds e testes, permitindo detectar erros rapidamente.
+## Atividade 09
+
+É uma prática de desenvolvimento onde os programadores integram seu código ao repositório principal frequentemente, várias vezes ao dia. Cada integração é verificada automaticamente por builds e testes, permitindo detectar erros rapidamente.
+
 As branches desempenham papel fundamental nesse processo, pois permitem que desenvolvedores trabalhem em funcionalidades isoladas sem afetar o código principal. Isso possibilita desenvolvimento paralelo e experimentação segura.
+
 O Pull Request é crucial porque estabelece um ponto de revisão antes da integração. Ele permite que outros desenvolvedores examinem o código, sugiram melhorias, identifiquem problemas e garantam que o código atende aos padrões de qualidade antes de ser mesclado à branch principal, fortalecendo a colaboração e a qualidade do software.
