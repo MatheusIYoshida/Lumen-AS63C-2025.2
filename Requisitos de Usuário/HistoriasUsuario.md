@@ -106,7 +106,7 @@ A Tabela a seguir contém as Histórias de Usuário elicitadas.
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF15</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">13</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US08</td>
@@ -133,7 +133,7 @@ A Tabela a seguir contém as Histórias de Usuário elicitadas.
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03, RF05, RF07</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US10</td>
@@ -147,7 +147,7 @@ A Tabela a seguir contém as Histórias de Usuário elicitadas.
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF06, RF11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">US11</td>
